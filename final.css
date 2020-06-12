@@ -70,7 +70,6 @@ li a {
     /* border: black 2px solid; */
     cursor: pointer;
     box-shadow: 0 0 16px 0 white;
-    box-shadow: 0 0 16px 0 white of;
 }
 
 .nav-links a:hover {
