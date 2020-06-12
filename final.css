@@ -69,8 +69,8 @@ li a {
 .logo:hover {
     /* border: black 2px solid; */
     cursor: pointer;
-    box-shadow: 0 0 16px 0 white inset;
-    box-shadow: 0 0 16px 0 white of;
+    box-shadow: 0 0 16px 0 white;
+/*     box-shadow: 0 0 16px 0 white of; */
 }
 
 .nav-links a:hover {
@@ -79,7 +79,7 @@ li a {
     /* text-decoration: underline; */
     /* border: black 1px solid; */
     /* box-shadow: 0 5px 16px 0 rgba(0, 0, 0, 0.5); */
-    box-shadow: 0 0 16px 0 white inset;
+    box-shadow: 0 0 16px 0 white;
 }
 
 .nav-links li {
